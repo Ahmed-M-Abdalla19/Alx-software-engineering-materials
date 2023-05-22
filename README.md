@@ -11,7 +11,7 @@
 
 - If already have `git` installed so no needed.
   - Go And open it from `git bash`.
-![Vim](./Assets/Vim/vi.png)
+![Vim](./Assets/Vim/Vi.png)
 - If not Go download it [git](https://git-scm.com/downloads).
 - Now go To Sheet cheat to learn `vim/`.
 

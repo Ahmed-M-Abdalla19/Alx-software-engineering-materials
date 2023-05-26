@@ -4,6 +4,7 @@
 ## Tables of contents
 
 1. [**vim**](#vim-🕹️)
+2. [**Linux**](#Linux)
 
 ## Vim 🕹️
 

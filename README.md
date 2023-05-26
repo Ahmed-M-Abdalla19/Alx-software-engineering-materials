@@ -22,7 +22,7 @@
 
 ## Linux
 
-- It's Kerneal using minium resources for pc.
+- It's OS Kernel using minium resources for pc.
 
 ### Resources For Learning Commands
 

@@ -18,3 +18,12 @@
 ### Resources
 
 1. [documentation](https://vimdoc.sourceforge.net/htmldoc/usr_toc.html).
+
+## Linux
+
+- It's OS using minium resources for pc.
+
+### Resources For Learning Commands
+
+1. [Linux_Commands](https://ss64.com/bash/)
+2. Cheat Sheet on `.\linux\linux-commands-cheat-sheet`
